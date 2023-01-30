@@ -5,7 +5,7 @@
 [![image size](https://img.shields.io/docker/image-size/jonlabelle/nmap/latest?label=image%20size)](https://hub.docker.com/r/jonlabelle/nmap/tags)
 
 ## étape 1 : installation de l'image docker
-
+<img src=docker run.png>
 ## Utilité
 
 ```bash
