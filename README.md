@@ -14,6 +14,8 @@ docker run [docker run options ...] instrumentisto/nmap [nmap options ...] <nmap
 ```
 
 ## Exemple
+
+j'ai tester de lancer une commande nmap pour scanner une adresse vulnerable fournie par le prof de sécurité réseaux
 <img src=nmap.png>
 
 
