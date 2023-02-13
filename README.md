@@ -28,7 +28,8 @@ j'ai tester de lancer une commande nmap pour scanner une adresse vulnerable four
 ## Chiffrement de conteneur
 ### Installation VeraCrypt sur debian 11:
 ```bash
-wget https://launchpad.net/veracrypt/trunk/1.25.9/+download/veracrypt-1.25.9-Debian-11-amd64.deb```
+wget https://launchpad.net/veracrypt/trunk/1.25.9/+download/veracrypt-1.25.9-Debian-11-amd64.deb
+```
 
 
 ### Chiffrer quelques répertoires 
