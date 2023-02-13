@@ -34,6 +34,9 @@ wget https://launchpad.net/veracrypt/trunk/1.25.9/+download/veracrypt-console-1.
 sudo apt install ./veracrypt-console-1.25.9-Debian-11-amd64.deb
 ```
 
+```bash
+veracrypt --create
+```
 
 ### Chiffrer quelques répertoires 
 ### Créer un container chiffré de 1Mo
