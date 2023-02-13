@@ -26,3 +26,6 @@ j'ai tester de lancer une commande nmap pour scanner une adresse vulnerable four
 
 
 ## Chiffrement de conteneur
+### Installer le système
+### Chiffrer quelques répertoires 
+### Créer un container chiffré de 1Mo
